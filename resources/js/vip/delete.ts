@@ -1,1 +1,0 @@
-// Add VIP delete functionality here
