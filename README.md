@@ -7,6 +7,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/counterstrikesharp-panel/css-bans)
 
 # CSS-BANS
+# **[DOWNLOAD](../../releases)**
 *Your CounterStrikeSharp Admin Web Panel*
 
 </div>
